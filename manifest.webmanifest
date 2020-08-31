@@ -1,0 +1,16 @@
+{
+    "name": "Roll A Dice",
+    "short_name": "Roll A Dice",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "black",
+    "theme_color": "black",
+    "description": "A Two-Player Dice Game made using Javascript",
+    "icons": [
+      {
+        "src": "images/favicons/dice_pwa.png",
+        "sizes": "640x640",
+        "type": "image/png"
+      }
+    ]
+  }

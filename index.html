@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<!-- Niharika Dutta | @canvas-nd -->
+<html lang="en">
+	<head>
+        <!-- Niharika Dutta | @canvas-nd -->
+
+		<!-- Basic -->
+		<meta http-equiv="Content-Type" content="text/html; charset="UTF-8">
+		<title>Roll A Dice</title>
+		<meta name="description" content="A Two-Player Dice Game made using Javascript">
+        <meta name="keywords" content="Roll A Dice">
+        
+		<!-- Load Fonts -->
+		<link href="https://fonts.googleapis.com/css?family=Lato:100,300,600" rel="stylesheet" type="text/css">
+        <script src="https://kit.fontawesome.com/8089e2c9b1.js" crossorigin="anonymous"></script>
+        
+		<!-- CSS -->
+        <link type="text/css" rel="stylesheet" href="css/style-dice.css">
+
+        <!-- Subhankar Pal | @subho57 -->
+
+        <!-- Mobile Specific Metas -->
+            <meta name="viewport" />
+        
+		<!-- Favicons -->
+        <link rel="shortcut icon" href="images/favicons/dice.ico">
+        
+		<!-- PWA Migration -->
+        <link rel= "manifest" href= "./manifest.webmanifest" />
+        
+	</head>
+	<body>
+		<div class="wrapper  clearfix">
+			<div class="player-0-panel active">
+				<div class="player-name" id="name-0"> Player 1 </div>
+				<div class="player-score" id="score-0"> 0 </div>
+				<div class="player-current-box">
+					<div class="player-current-label"> Current </div>
+					<div class="player-current-score" id="current-0">0</div>
+				</div>
+            </div>
+            
+			<div class="player-1-panel">
+				<div class="player-name" id="name-1"> Player 2 </div>
+				<div class="player-score" id="score-1"> 0 </div>
+				<div class="player-current-box">
+					<div class="player-current-label"> Current </div>
+					<div class="player-current-score" id="current-1">0</div>
+				</div>
+            </div>
+            
+			<!-- the middle elements which will be at the center -->
+			<button class="btn-new"><i class="fas fa-plus-circle"></i> NEW GAME </button>
+			<button class="playerturn" id="player-00"> poll </button>
+			<button class="btn-roll"><i class="fas fa-dice"></i><em>Roll Dice</em></button>
+            <button class="btn-hold"><i class="fas fa-hands"></i><em>Pass</em></button>
+            
+            <input type="text" disabled class="maxscore" placeholder="Maximum Score">
+            
+            <img src="images/roll-dice/dice-2.png" alt="Dice" class="dice">
+            
+        </div>
+        
+		<!-- Main Scripts -->
+        <script src="js/script-dice.js"></script>
+        
+		<!-- Dark Mode Integration
+			<script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.5.6/lib/darkmode-js.min.js"></script>
+			<script>
+			    function addDarkmodeWidget() {
+			        new Darkmode().showWidget();
+			    }
+			    window.addEventListener('load', addDarkmodeWidget);
+			</script> -->
+	</body>
+</html>
