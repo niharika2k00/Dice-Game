@@ -1,5 +1,5 @@
 // Subhankar Pal | @subho57
-const CACHE_NAME = 'dice-v10'; // increment this when updating the web site
+const CACHE_NAME = 'dice-v9'; // increment this when updating the web site
 const urlsToCache = [
     './index.html',
     './manifest.webmanifest',
