@@ -1,4 +1,3 @@
-
 // Niharika Dutta | @canvas-nd
 alert("GAME RULES :: \n\n 1) Click on ROLL DICE to start a Game.\n 2) CURRENT SCORE will be added & display GLOBALLY on clicking PASS BUTTON.\n 3)Which implies that the Opposite player will get the chance for rolling and it continues .... \n 4) You can also click on NEW GAME for another match. \n \n                                           || BEST OF LUCK || \n");
 var highestsc = prompt("ENTER THE MAX SCORE: ");
