@@ -1,6 +1,6 @@
 <h1 align="center"> Roll-A-Dice 🎲 </h1>
   <p align="center">
-    <a href="https://niharika2k00.github.io/Dice-Game/"> <b> Live Site </b></a>
+    <a href="https://niharika2k00.github.io/Dice-Game/"> <b> Live Site </b></a> </br> </br>
   </p>
 </p>
 
