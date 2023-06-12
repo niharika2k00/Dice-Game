@@ -19,8 +19,6 @@
 
 A simple two player Dice-Game using HTML5, CSS3 & Javascript with a PWA implementation.
 
-</br>
-
 - #### Player vs Computer
 
   <img src="./screen-shots/img1.png" alt=""/> <br/>
