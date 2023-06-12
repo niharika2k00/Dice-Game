@@ -1,6 +1,6 @@
 <h1 align="center"> Roll-A-Dice 🎲 </h1>
   <p align="center">
-    <a href="https://niharika2k00.github.io/Dice-Game/"> <b> Live Site </b></a> </br> </br>
+    <a href="https://niharika2k00.github.io/Dice-Game/"> <b> Live Site </b></a>
   </p>
 </p>
 
@@ -13,7 +13,6 @@
     <li><a href="#contact">Contact</a></li>  </ol>
 </details>
 
-
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
@@ -23,9 +22,11 @@ A simple two player Dice-Game using HTML5, CSS3 & Javascript with a PWA implemen
 </br>
 
 - #### Player vs Computer
-<img src="./screen-shots/img1.png" alt=""/> <br/>
+
+  <img src="./screen-shots/img1.png" alt=""/> <br/>
 
 - #### Player vs Player
+
   <img src="./screen-shots/img3.png" alt=""/> <br/>
 
 - #### Final Result
