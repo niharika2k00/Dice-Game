@@ -1,6 +1,6 @@
 <h1 align="center"> Roll-A-Dice 🎲 </h1>
   <p align="center">
-  <a href="https://niharika2k00.github.io/Dice-Game/"> <b> Live Site </b></a> </br> </br>
+    <a href="https://niharika2k00.github.io/Dice-Game/"> <b> Live Site </b></a> </br> </br>
   </p>
 </p>
 
@@ -18,7 +18,7 @@
 
 ## About The Project
 
-A simple two player dice game made using javascript
+A simple two player Dice-Game using HTML5, CSS3 & Javascript with a PWA implementation.
 
 </br>
 
